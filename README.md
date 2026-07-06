@@ -141,7 +141,7 @@ The model effectively identifies high-risk churn customers and supports proactiv
 
 ## 📊 Executive Summary Dashboard
 
-![Summary Dashboard](assets/summary_dashboard.png)
+![Summary Dashboard](Assets/summary_dashboard.png)
 
 Key insights include:
 
@@ -156,7 +156,7 @@ Key insights include:
 
 ## 🤖 Customer Churn Prediction Dashboard
 
-![Prediction Dashboard](assets/prediction_dashboard.png)
+![Prediction Dashboard](Assets/prediction_dashboard.png)
 
 Key capabilities:
 
